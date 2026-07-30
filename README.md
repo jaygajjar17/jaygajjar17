@@ -1,58 +1,53 @@
 <div align="center">
 
-# Hi 👋, I'm Jay Gajjar
+# 👋 Hi, I'm Jay Gajjar
 
-### 🚀 Senior Full Stack Developer | Cloud Engineer | AI Infrastructure Enthusiast
+### Senior Full Stack Engineer • React • Next.js • Node.js • AWS • Kubernetes
 
-<p>
-Building scalable web applications, real-time systems, cloud infrastructure, and AI-powered solutions.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;Cloud+%26+DevOps+Engineer;AI+%7C+Real-Time+Systems+Developer;Always+Learning+Something+New+🚀" />
 
 <p>
 <a href="https://jaygajjar.vercel.app">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit%20Website-2563EB?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github" />
+<a href="https://github.com/jayaivid">
+<img src="https://img.shields.io/github/followers/jayaivid?logo=github&style=for-the-badge" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/jay-gajjar-5a2b881b1/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge" />
 </a>
 
 <a href="mailto:jaygajjar052@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&style=for-the-badge" />
 </a>
-
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Senior+Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+Expert;AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+AI+Platforms;Always+Learning+New+Technologies"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-I'm a **Senior Software Engineer** with **5+ years of experience** building enterprise-grade applications, cloud-native infrastructure, and AI-powered systems.
+🚀 Senior Full Stack Developer with **5+ years** of experience building enterprise applications, cloud infrastructure and AI-powered systems.
 
-I enjoy solving complex engineering problems, designing scalable architectures, and developing products that serve thousands of users in production.
+I enjoy building products that are scalable, maintainable and solve real-world problems.
 
-### 💼 Currently Working With
+### Currently Working With
 
 - ⚛️ React.js & Next.js
-- 🚀 Node.js & Express.js
+- 🟢 Node.js & Express.js
 - ☁️ AWS Cloud
 - 🐳 Docker & Kubernetes
 - 🔥 TypeScript
 - 🍃 MongoDB & Redis
-- 📡 MQTT, WebSockets & Real-time Systems
-- 🤖 AI & Computer Vision Platforms
+- 📡 MQTT & WebSockets
+- 🤖 AI Platforms & Computer Vision
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
@@ -69,7 +64,7 @@ I enjoy solving complex engineering problems, designing scalable architectures, 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
 </p>
 
 ### Cloud & DevOps
@@ -86,45 +81,35 @@ I enjoy solving complex engineering problems, designing scalable architectures, 
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-## 🤖 AI Detection Platform
+### 🤖 AI Detection Platform
 
-Enterprise AI monitoring system deployed across hundreds of production sites.
-
-**Tech**
-
-- React
-- Node.js
-- MQTT
-- Redis
-- Docker
-- Kubernetes
-- AWS
+Enterprise AI monitoring system deployed across hundreds of production sites using AI, MQTT, WebSockets and Kubernetes.
 
 ---
 
-## 🚚 Vehicle Logistics Management System
+### 🚚 Vehicle Logistics Management System
 
-Smart logistics management platform with real-time tracking, analytics and reporting.
+Vehicle tracking, logistics operations, reporting and analytics platform.
 
 ---
 
-## 🎯 AI Control Center
+### 🔑 AI Control Center
 
-Centralized portal for:
+Centralized portal for
 
-- License Generation
+- License Management
 - Customer Management
 - Role Based Access Control
-- Product Management
+- Product Configuration
 - User Administration
 
 ---
 
-## 📊 Analytics Dashboard
+### 📊 Analytics Dashboard
 
-Interactive dashboards for monitoring AI events, reports and system health.
+Real-time dashboards for AI insights, notifications and monitoring.
 
 ---
 
@@ -132,9 +117,9 @@ Interactive dashboards for monitoring AI events, reports and system health.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jayaivid&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaivid&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -144,17 +129,7 @@ Interactive dashboards for monitoring AI events, reports and system health.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
+<img src="https://streak-stats.demolab.com?user=jayaivid&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -164,37 +139,33 @@ Interactive dashboards for monitoring AI events, reports and system health.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayaivid&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 💡 What I Love Building
+# 💻 What I Love Building
 
-- 🚀 High-performance web applications
-- ☁️ Cloud-native architectures
-- 📦 Microservices
-- 🤖 AI-powered platforms
-- 📡 Real-time systems
-- 🎥 Video streaming platforms
-- 🔐 Secure APIs
-- ⚡ Highly scalable backend systems
+- 🚀 Enterprise Web Applications
+- ☁️ Cloud Infrastructure
+- 🐳 Kubernetes Deployments
+- 📡 Real-Time Systems
+- 🤖 AI Platforms
+- 🔐 Secure REST APIs
+- 📈 Monitoring Dashboards
+- ⚡ High Performance Backends
 
 ---
 
-# 📫 Let's Connect
+# 📫 Connect With Me
 
-<p>
+<p align="center">
 
-🌐 Portfolio  
-https://jaygajjar.vercel.app
-
-💼 LinkedIn  
-YOUR_LINKEDIN_URL
-
-📧 Email  
-jaygajjar052@gmail.com
+<a href="https://jaygajjar.vercel.app">🌐 Portfolio</a> •
+<a href="https://github.com/jayaivid">GitHub</a> •
+<a href="https://www.linkedin.com/in/jay-gajjar-5a2b881b1/">LinkedIn</a> •
+<a href="mailto:jaygajjar052@gmail.com">Email</a>
 
 </p>
 
@@ -202,8 +173,8 @@ jaygajjar052@gmail.com
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+### ⭐ Thanks for visiting my profile!
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=jayaivid&style=for-the-badge)
 
 </div>
