@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Hi 👋, I'm Jay Gajjar
@@ -208,4 +207,3 @@ jaygajjar052@gmail.com
 ![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=for-the-badge)
 
 </div>
-```
